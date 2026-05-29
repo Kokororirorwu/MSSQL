@@ -4,6 +4,8 @@ GO
 DROP FUNCTION IF EXISTS dbo.GetOrderTotal;
 GO
 
+-- функции используется в SELECT, однако функция возвращает значение
+
 CREATE FUNCTION dbo.GetOrderTotal
 (
     @OrderId INT
