@@ -1,5 +1,5 @@
 CREATE DATABASE ElectronicStore;
 GO
 
-USE ElectricStore;
+USE ElectronicStore;
 GO
